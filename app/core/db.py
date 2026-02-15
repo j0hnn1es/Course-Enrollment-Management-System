@@ -1,0 +1,3 @@
+user = {}
+course = {}
+enrollment = {}
